@@ -38,27 +38,21 @@ This study focuses to:
 
 4. Examine how ESD relates to other sustainability metrics, like economic resilience and climate action.
 
-## Potential Datasets
+## Datasets
 
+<!-- Please be specific regarding where to find the datasets. E.g. URL to a page where I can directly download the data-->
+<!-- This symbol: o is not standard markdown.  Just use a tab before the asterisk,* and markdown will insert the appropriate shape depending on the platform and device.  See below  -->
 1. UNESCO Institute for Statistics (UIS)
-
-    o Source: http://uis.unesco.org
-    
-    o Contents: Global education indicators, including literacy rates, school enrollment and funding.
-
-    o Temporal coverage: 2000- present
-
-    o Geographic Scope: Global, with country-level breakdowns 
+    *  Source: http://uis.unesco.org  
+    * Contents: Global education indicators, including literacy rates, school enrollment and funding.
+    * Temporal coverage: 2000- present
+    * Geographic Scope: Global, with country-level breakdowns 
 
 2.	World Bank Education Data
-
-    o Source: https://data.worldbank.org/topic/education
-
-    o Contents: Education spending, Student performance and access to education.
-
-    o Temporal coverage: 1960- Present
-
-    o Geographic Scope: Global
+    * Source: https://data.worldbank.org/topic/education
+    * Contents: Education spending, Student performance and access to education.
+    * Temporal coverage: 1960- Present
+    * Geographic Scope: Global
 
 3.	UNESCO ESD Reports and Policy Frameworks
 
@@ -80,18 +74,16 @@ This study focuses to:
 
     o Geographic scope: International university-level data
 
-## Problem context references
-
+## References
+<!-- You should try to link these references in the text where they were cited, e.g. [1].  See my sample. -->
 1. United Nations Educational, Scientific and Cultural Organization (UNESCO). (2014). Shaping the Future We Want: UN Decade of Education for Sustainable Development (2005-2014) Final Report. Paris: UNESCO https://unesdoc.unesco.org/ark:/48223/pf0000230171
 
 2. United Nations. (2012). The Future We Want: Outcome Document of the United Nations Conference on Sustainable Development (Rio+20) https://sustainabledevelopment.un.org/rio20/futurewewant
 
 3. Brundtland, G. H. (1987). Our Common Future: Report of the World Commission on Environment and Development. United Nations https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf
 
-## Significance of the Study References
+4. United Nations. (2015). Transforming Our World: The 2030 Agenda for Sustainable Development https://sdgs.un.org/2030agenda
 
-United Nations. (2015). Transforming Our World: The 2030 Agenda for Sustainable Development https://sdgs.un.org/2030agenda
+5. Tilbury, D. (2011). Education for Sustainable Development: An Expert Review of Processes and Learning. UNESCO https://unesdoc.unesco.org/ark:/48223/pf0000199240
 
-Tilbury, D. (2011). Education for Sustainable Development: An Expert Review of Processes and Learning. UNESCO https://unesdoc.unesco.org/ark:/48223/pf0000199240
-
-World Summit on Sustainable Development (WSSD). (2002). Johannesburg Plan of Implementation https://www.un.org/esa/sustdev/documents/WSSD_POI_PD/English/WSSD_PlanImpl.pdf
+6. World Summit on Sustainable Development (WSSD). (2002). Johannesburg Plan of Implementation https://www.un.org/esa/sustdev/documents/WSSD_POI_PD/English/WSSD_PlanImpl.pdf
