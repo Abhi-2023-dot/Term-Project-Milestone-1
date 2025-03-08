@@ -45,7 +45,11 @@ Summary Details:
 * Calculates the proportion of GDP allocated to education by the government.
 * Goal: Education should account for at least 4% of GDP.
 
-<!-- 
-when you use bullets, you do not have to indent as you did, Markdown will handle indentation where appropriate
->
+# Analysis:
+
+![Gender Distribution of Enrollment](Visualizations/EducationAccessRate.png)
+![Geographic Distribution of Gender Parity](Visualizations/GenderParityIndex.png)
+![Average Enrollment Rates by Countires](Visualizations/LiteracyRates.png)
+![Rural vs. Urban Enrollment Disparities by Country](Visualizations/SchoolCompletion.png)
+![Spending on tertiary education by country](Visualizations/EducationInvestment.png)
 
