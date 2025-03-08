@@ -48,8 +48,13 @@ Summary Details:
 # Analysis:
 
 ![Gender Distribution of Enrollment](Visualizations/EducationAccessRate.png)
+This bar chart compares the enrollment rates of female and male students in the top 5 countries (Albania, Afganistan, Algeria, Angola, and Armenia). The visualization highlights gender disparities in education access, with some countries showing a higher enrollment rate for females, while others have a more balanced distribution. This analysis helps identify regions where targeted interventions may be needed to improve gender equality in education.
 ![Geographic Distribution of Gender Parity](Visualizations/GenderParityIndex.png)
+It shows the geographic distribution of the School Enrollment Gender Parity Index (GPI) across different countries. The map indicates color encoding to represent variations in GPI values, where higher values (closer to 1) indicate better gender parity and lower values indicate gender disparities
 ![Average Enrollment Rates by Countires](Visualizations/LiteracyRates.png)
+It shows the average enrollment rates by countries, all nations are defined by different colours and the numbers which are on top of the bars are "Total Enrollment" but on Y axis it shows in average.
 ![Rural vs. Urban Enrollment Disparities by Country](Visualizations/SchoolCompletion.png)
+It shows the total enrollment of students in schools from rural and urban areas according to top 5 countries. The disparity in Armenia is at the peak in urban area and least one is in Angola in rural.
 ![Spending on tertiary education by country](Visualizations/EducationInvestment.png)
+This horizontal bar chart compares spending on tertiary education across different countries. The countries are listed on the Y-axis, and the percentage of spending is shown on the X-axis. The bars are sorted in descending order, so the countries with the highest spending appear at the top (e.g., Norway, Finland, Luxembourg)
 
