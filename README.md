@@ -48,4 +48,5 @@ Summary Details:
 <!-- 
 when you use bullets, you do not have to indent as you did, Markdown will handle indentation where appropriate
 >
-![Education Access Rate](Visualizations/Education Access Rate.png)
+![Education Access Rate](https://github.com/user-attachments/assets/029b0d0c-66db-44ce-9e9a-de8fa8b27a0e)
+
