@@ -49,3 +49,4 @@ Summary Details:
 when you use bullets, you do not have to indent as you did, Markdown will handle indentation where appropriate
 >
 ![Education access rate](visualizations/Education Access Rate.png)
+https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/Visualizations/Education%20Access%20Rate.png?raw=true
