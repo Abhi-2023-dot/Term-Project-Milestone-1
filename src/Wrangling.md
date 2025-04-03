@@ -41,21 +41,21 @@ This document outlines the data wrangling steps taken to clean and prepare the d
 ## 3. Description of the visualizations:
 
 **KPI 1 (Education Access Rate)**
-![Gender Distribution of Enrollment](Visualizations/EducationAccessRate.png)
+![Gender Distribution of Enrollment](img/EducationAccessRate.png)
 This bar chart compares the enrollment rates of **female** and **male** students in the top 5 countries (Albania, Afganistan, Algeria, Angola, and Armenia). The visualization highlights gender disparities in education access, with some countries showing a higher enrollment rate for females, while others have a more balanced distribution. This analysis helps identify regions where targeted interventions may be needed to improve gender equality in education.
 
 **KPI 2 (Gender Parity Index)**
-![Geographic Distribution of Gender Parity](Visualizations/GenderParityIndex.png)
+![Geographic Distribution of Gender Parity](img/GenderParityIndex.png)
 It shows the geographic distribution of the School Enrollment Gender Parity Index (GPI) across different countries. The map indicates color encoding to represent variations in GPI values, where higher values (closer to 1) indicate better gender parity and lower values indicate gender disparities.
 
 **KPI 3 (Literacy Rate)**
-![Average Enrollment Rates by Countires](Visualizations/LiteracyRates.png)
+![Average Enrollment Rates by Countires](img/LiteracyRates.png)
 It shows the average enrollment rates by countries, all nations are defined by different colours and the numbers which are on top of the bars are "Total Enrollment" but on Y axis it shows in average.
 
 **KPI 4 (School Completion)**
-![Rural vs. Urban Enrollment Disparities by Country](Visualizations/SchoolCompletion.png)
+![Rural vs. Urban Enrollment Disparities by Country](img/SchoolCompletion.png)
 It shows the total enrollment of students in schools from rural and urban areas according to top 5 countries. The disparity in Armenia is at the peak in urban area and least one is in Angola in rural.
 
 **KPI 5 (Education Investment)**
-![Spending on tertiary education by country](Visualizations/EducationInvestment.png)
+![Spending on tertiary education by country](img/EducationInvestment.png)
 This horizontal bar chart compares spending on tertiary education across different countries. The countries are listed on the Y-axis, and the percentage of spending is shown on the X-axis. The bars are sorted in descending order, so the countries with the highest spending appear at the top (e.g., Norway, Finland, Luxembourg)
