@@ -98,3 +98,9 @@ The negative correlation between "Urban percentage" and total enrollment might s
 # Conclusion
 Both male and female students contributed equally, as shown by the heatmap's strong positive correlations between overall enrollment and gender-specific enrollments.  Nonetheless, the opposite correlation between the percentage of urban residents and overall enrollment raises the possibility that enrollment rates are higher in rural regions.  Furthermore, there are weak correlations between the population total and other KPIs, suggesting that enrollment trends may not be significantly influenced by it.  Demographic influences on school enrollment can be better understood with the aid of this analysis.
 
+[Background](Background.md)
+
+[Table of Contents](Table_of_contents.md)
+
+[Data Wrangling Methods](src/Wrangling.md)
+
