@@ -60,3 +60,6 @@ This horizontal bar chart compares spending on tertiary education across differe
 
 ### Heat Map:
 ![(Heat Map](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/Heatmap_Termproject.png?raw=true)
+
+Analyzing the heat map, we can observe the following important relationships:
+
