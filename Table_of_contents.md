@@ -15,7 +15,7 @@
 - [3.5 Spending on tertiary education by country](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/EducationInvestment.png)
   
 ### 4. Conclusion
-- [4.1 Conclustion]() 
+- [4.1 Conclustion](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/README.md#conclusion) 
 
 ### 5. References
 - [5.1 References](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/Background.md#references)
