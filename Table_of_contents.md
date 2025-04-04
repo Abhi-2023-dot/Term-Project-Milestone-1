@@ -1,7 +1,7 @@
 # Table of Contents
 
 ### 1. Introduction
-- [1.1 Executive Summary](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/README.md#executive-summary))
+- [1.1 Executive Summary](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/README.md#executive-summary)
 - [1.2  Context & Importance of the study](Background.md)
 
 ### 2. Research Objectives and Methodology
