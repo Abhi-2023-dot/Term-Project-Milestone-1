@@ -94,3 +94,7 @@ Analyzing the heat map, we can observe the following important relationships:
 The strong correlation between "Total Enrollment" and gender-specific enrollment (Female/Male) suggests that total enrollment is nearly equally influenced by both genders.
 
 The negative correlation between "Urban percentage" and total enrollment might suggest that rural areas have higher enrollment rates.
+
+# Conclusion
+Both male and female students contributed equally, as shown by the heatmap's strong positive correlations between overall enrollment and gender-specific enrollments.  Nonetheless, the opposite correlation between the percentage of urban residents and overall enrollment raises the possibility that enrollment rates are higher in rural regions.  Furthermore, there are weak correlations between the population total and other KPIs, suggesting that enrollment trends may not be significantly influenced by it.  Demographic influences on school enrollment can be better understood with the aid of this analysis.
+
