@@ -63,3 +63,34 @@ This horizontal bar chart compares spending on tertiary education across differe
 
 Analyzing the heat map, we can observe the following important relationships:
 
+**1. Color Coding:**
+
+  -Red indicates a strong positive correlation (+1).
+  
+  -Blue represents a negative correlation.
+  
+  -White or light colors indicate weak or no correlation (~0).
+
+  **2. Key observations:**
+
+  **Positive Correlation**
+
+"Total Enrollment" and "Female" (1.00)
+
+"Total Enrollment" and "Male" (0.99)
+
+"Female" and "Male" (0.98)
+
+  **Negative Correlation:**
+
+"Urban percentage" negatively correlates with "Total Enrollment" (-0.38) and "Female" (-0.38).
+
+  **Weak Correlations:**
+
+"Pop total" has weak correlations with all variables (~0.02).
+
+**3. Interpretation:**
+
+The strong correlation between "Total Enrollment" and gender-specific enrollment (Female/Male) suggests that total enrollment is nearly equally influenced by both genders.
+
+The negative correlation between "Urban percentage" and total enrollment might suggest that rural areas have higher enrollment rates.
