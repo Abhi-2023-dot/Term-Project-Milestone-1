@@ -14,10 +14,10 @@
 - [3.4 Rural VS Urban enrollment disparities by countries](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/SchoolCompletion.png)
 - [3.5 Spending on tertiary education by country](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/EducationInvestment.png)
   
-### 5. Conclusion
+### 4. Conclusion
 - [5.1 Conclustion]() 
 
-### 6. References
+### 5. References
 - [6.1 References]()
 
 ---
