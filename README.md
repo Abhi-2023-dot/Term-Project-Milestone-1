@@ -59,4 +59,4 @@ It shows the total enrollment of students in schools from rural and urban areas 
 This horizontal bar chart compares spending on tertiary education across different countries. The countries are listed on the Y-axis, and the percentage of spending is shown on the X-axis. The bars are sorted in descending order, so the countries with the highest spending appear at the top (e.g., Norway, Finland, Luxembourg)
 
 ### Heat Map:
-![(Heat Map](img/Heatmap_termproject.png)
+![(Heat Map](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/Heatmap_Termproject.png?raw=true)
