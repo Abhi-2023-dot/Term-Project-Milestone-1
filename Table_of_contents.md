@@ -14,15 +14,11 @@
 - [3.4 Rural VS Urban enrollment disparities by countries](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/SchoolCompletion.png)
 - [3.5 Spending on tertiary education by country](https://github.com/Abhi-2023-dot/Term-Project-Milestone-1/blob/main/img/EducationInvestment.png)
   
-### 4. Statistical Analysis
-- [4.1 Causal Model Correlation Analysis](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#causal-inference--correlation-analysis)
-- [4.2 Results](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#results)
-
 ### 5. Conclusion
-- [5.1 Conclustion](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#conclusion) 
+- [5.1 Conclustion]() 
 
 ### 6. References
-- [6.1 References](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/Background.md#references)
+- [6.1 References]()
 
 ---
 [Home](README.md)
